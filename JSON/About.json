@@ -1,17 +1,21 @@
 [
     {
         "name": "Kislev Becker",
-        "Profession": "Full Stack Developer",
+        "Profession": "Frontend Web/App Developer and Designer",
+        "country": "Honduras",
         "Photo": "https://dummyimage.com/64x64/f6f9ff/050e8a.png",
-        "about_me": "algo sobre miiiii",
+        "about_me": "Soy una ingeniera en sistemas apasionada por el frontend y el diseño, me gusta el hecho de poder hacer aplicaciones visualmente atractivas y modernas, además de adoptar nuevas tecnologías",
         "skills": [
             "javascript",
             "nodejs",
             "reactjs",
             "angular",
+            "vue",
+            "reactNative",
+            "flutter",
             "html",
             "css",
-            "mysql"
+            "SqlServer"
         ]
     }
 ]
