@@ -2,7 +2,7 @@
     {
         "name": "Kislev Becker",
         "Profession": "Full Stack Developer",
-        "Photo": "url",
+        "Photo": "https://dummyimage.com/64x64/f6f9ff/050e8a.png",
         "about_me": "algo sobre miiiii",
         "skills": [
             "javascript",

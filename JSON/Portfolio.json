@@ -2,12 +2,12 @@
     {
         "name": "proyecto1",
         "descripcion": "udsadjslkdaiijsdijdo",
-        "image": "la misma url del about",
+        "image": "https://dummyimage.com/64x64/f6f9ff/050e8a.png",
         "link": "url"
     },
     {
         "name": "proyecto2",
-        "descripcion": "udsadjslkdaiijsdijdo",
+        "descripcion": "https://dummyimage.com/64x64/f6f9ff/050e8a.png",
         "image": "la misma url del about",
         "link": "url"
     }
